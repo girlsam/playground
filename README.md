@@ -17,3 +17,10 @@ Go play :raised_hands:
 
 ### Available on NPM
 [js-playground-wp](https://www.npmjs.com/package/js-playground-wp)
+
+#### TODO
+* PWA
+* Sass linting
+* Jest configuration
+* Node/NPM version locks
+* Add prettier
