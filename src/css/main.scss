@@ -2,12 +2,11 @@
 
 @use "./global/variables";
 
-// @import './global/variables';
-
 body {
   background-color: variables.$accent-set-color;
 
   div {
     color: variables.$primary-color;
+    font-family: variables.$roboto-slab;
   }
 }

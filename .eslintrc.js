@@ -9,10 +9,10 @@ module.exports = {
 		'sourceType': 'module',
 	},
 	'rules': {
-		// 'indent': [
-		// 	'error',
-		// 	'tab',
-		// ],
+		'indent': [
+			'error',
+			'space',
+		],
 		'linebreak-style': [
 			'error',
 			'unix',
