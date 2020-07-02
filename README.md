@@ -14,3 +14,6 @@ Go play :raised_hands:
 - Sass
 - ES6
 - ESLint & Prettier
+
+### Available on NPM
+[js-playground-wp](https://www.npmjs.com/package/js-playground-wp)
